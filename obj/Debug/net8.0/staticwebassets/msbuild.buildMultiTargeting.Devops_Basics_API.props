@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Devops_Basics_API.props" />
+</Project>
